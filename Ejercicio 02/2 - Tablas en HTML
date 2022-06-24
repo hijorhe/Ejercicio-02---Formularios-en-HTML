@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+    <body>
+        <h2>Ejercicio 02/2 - Tablas en HTML</h2>
+
+        <table>
+            <tr>
+                <th>Titulo</th>
+                <th>Autor</th>
+                <th>Año de publicacion</th>
+                <th>Amazon</th>
+            </tr>
+            <tr>
+                <td>Four</td>
+                <td>Scott Galloway</td>
+                <td>2019</td>
+                <td>https://www.amazon.com.mx/FOUR-secreto-Amazon-Facebook-Google/dp/6073176015/ref=sr_1_4?adgrpid=125617772350&gclid=Cj0KCQjwntCVBhDdARIsAMEwACnXTqjAO18G_78p-l-L6MdERh7Vosz1zhQ0xfNXZV_JbSSvw45YPOAaAvypEALw_wcB&hvadid=518633531685&hvdev=c&hvlocphy=20723&hvnetw=g&hvqmt=e&hvrand=5790165725538713799&hvtargid=kwd-3941357232&hydadcr=26976_9884722&keywords=amazon+libros&qid=1656038807&sr=8-4</td>
+            </tr>
+            <tr>
+                <td>Four</td>
+                <td>Scott Galloway</td>
+                <td>2019</td>
+                <td>https://www.amazon.com.mx/FOUR-secreto-Amazon-Facebook-Google/dp/6073176015/ref=sr_1_4?adgrpid=125617772350&gclid=Cj0KCQjwntCVBhDdARIsAMEwACnXTqjAO18G_78p-l-L6MdERh7Vosz1zhQ0xfNXZV_JbSSvw45YPOAaAvypEALw_wcB&hvadid=518633531685&hvdev=c&hvlocphy=20723&hvnetw=g&hvqmt=e&hvrand=5790165725538713799&hvtargid=kwd-3941357232&hydadcr=26976_9884722&keywords=amazon+libros&qid=1656038807&sr=8-4</td>
+            </tr>
+            <tr>
+                <td>Four</td>
+                <td>Scott Galloway</td>
+                <td>2019</td>
+                <td>https://www.amazon.com.mx/FOUR-secreto-Amazon-Facebook-Google/dp/6073176015/ref=sr_1_4?adgrpid=125617772350&gclid=Cj0KCQjwntCVBhDdARIsAMEwACnXTqjAO18G_78p-l-L6MdERh7Vosz1zhQ0xfNXZV_JbSSvw45YPOAaAvypEALw_wcB&hvadid=518633531685&hvdev=c&hvlocphy=20723&hvnetw=g&hvqmt=e&hvrand=5790165725538713799&hvtargid=kwd-3941357232&hydadcr=26976_9884722&keywords=amazon+libros&qid=1656038807&sr=8-4</td>
+            </tr>
+        </table>
+    </body>
+</html>

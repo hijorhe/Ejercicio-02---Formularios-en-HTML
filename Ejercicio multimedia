@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Ejercicio multimedia</title></head>
+    <body>
+        <div>
+            <h1>Aprendiendo a utilizar imágenes</h1>
+            <img src="imagenes/logohtml.png" alt="" width="300" height="300">
+        </div>
+        <div>
+            <h1>Aprendiendo a utilizar los vídeos</h1>
+            <video width="300" height="300"controls autoplay loop muted>
+                <source src="imagenes/Video.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div>
+            <h1>Aprendiendo a utilizar los audios</h1>
+            <audio controls autoplay loop>
+                <Source src="" type="audio/mp3"></Source>
+            </audio>
+        </div>
+    </body>
+</html>
